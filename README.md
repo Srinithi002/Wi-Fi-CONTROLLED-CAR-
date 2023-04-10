@@ -1,2 +1,2 @@
 # Wi-Fi-CONTROLLED-CAR-
-Wi-fi is controlled by using a Blynk android application instead joystick method. Here only needs to move
+Wi-fi is controlled by using a Blynk android application instead joystick method. Here only needs to move  the joystick in Blynk android application to control the car in forward, backward, left and right directions. So here Blynk android application is used as a transmitting device and indult wi-fi module placed in the car is used as a receiver. Blynk android application will transmit command using wi-fi to the car so that it can move in the required direction like moving forward, reverse, turning left, turning right and stop.
